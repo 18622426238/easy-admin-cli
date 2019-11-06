@@ -1,6 +1,6 @@
 {
   "name": "simple-vue-admin-cli",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^2.19.0",
-    "xujun": "^1.1.0",
+    "npm-gitee-lw": "^1.0.0",
     "inquirer": "^6.2.2",
     "ora": "^3.2.0"
   },

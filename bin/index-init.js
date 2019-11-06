@@ -3,7 +3,7 @@
 const program = require('commander')
 const chalk = require('chalk')
 const ora = require('ora')
-const download = require('download-git-repo')
+const download = require('npm-gitee-lw')
 const tplObj = require(`${__dirname}/../template`)
  
 program
