@@ -12,21 +12,21 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 2.全局安装easy-admin-cli 构建工具
 
-cnpm install easy-admin-cli -g
+cnpm install simple-vue-admin-cli -g
 
 安装完成后可使用命令
 
-1)easy-admin-add            增加新模板
+1simple-vue-admin-add            增加新模板
 
-2)easy-admin-delete         删除模板
+2)simple-vue-admin-delete         删除模板
 
-3)easy-admin-list           显示模板列表
+3)simple-vue-admin-list           显示模板列表
 
-4)easy-admin-init           根据模板初始化项目
+4)simple-vue-admin-init           根据模板初始化项目
 
 3.新建项目
 
-easy-admin-init mainpage newproject
+simple-vue-admin-init mainpage newproject
 
 //easy-admin-init <模板名称> <新项目名称>
 
