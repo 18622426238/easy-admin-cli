@@ -1,6 +1,6 @@
 {
-  "name": "easy-admin-cli",
-  "version": "1.0.5",
+  "name": "simple-vue-admin-cli",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,10 +16,10 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "easy-admin": "./bin/index.js",
-    "easy-admin-add": "./bin/index-add.js",
-    "easy-admin-delete": "./bin/index-delete.js",
-    "easy-admin-list": "./bin/index-list.js",
-    "easy-admin-init": "./bin/index-init.js"
+    "simple-vue-admin": "./bin/index.js",
+    "simple-vue-admin-add": "./bin/index-add.js",
+    "simple-vue-admin-delete": "./bin/index-delete.js",
+    "simple-vue-admin-list": "./bin/index-list.js",
+    "simple-vue-admin-init": "./bin/index-init.js"
   }
 }
